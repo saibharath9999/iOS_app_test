@@ -4,4 +4,4 @@ python-dateutil==2.7.3
 selenium==3.14.1
 six==1.11.0
 text-unidecode==1.2
-urllib3==1.23
+urllib3==1.26.5
